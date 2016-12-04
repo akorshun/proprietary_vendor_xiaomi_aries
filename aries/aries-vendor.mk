@@ -427,7 +427,6 @@ PRODUCT_COPY_FILES += \
 #vendor/app
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/app/Ds/Ds.apk:system/app/Ds/Ds.apk \
-    vendor/xiaomi/aries/proprietary/app/Ds/arm/Ds.odex:system/app/Ds/arm/Ds.odex \
 
 #vendor/bin
 PRODUCT_COPY_FILES += \
